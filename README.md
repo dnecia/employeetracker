@@ -6,7 +6,7 @@ A command-line application to manage a company's employee database, using Node.j
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Questions](#questions)
+- [About](#about)
 
 ## Installation 
 To install this app you need to utilize node.js. You can run node index.js in the command line to run the app.
